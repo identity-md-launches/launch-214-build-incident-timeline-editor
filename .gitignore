@@ -1,0 +1,5 @@
+# Dependencies and caches are never committed. dist/ IS committed (static export).
+node_modules/
+.vite/
+*.log
+.DS_Store
